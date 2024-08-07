@@ -121,4 +121,4 @@ npm start
 
 <a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/PzD28JM/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
 
-`♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ / Koruda - Bot _ By ᘛCriss`
+`♪ Koruda bot ofc ♩ / Koruda - Bot _ By ᘛCriss`
