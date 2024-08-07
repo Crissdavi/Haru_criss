@@ -1,4 +1,4 @@
-<h1 align="center">‧ 【 ✯ Ai Hoshino - MD ✰ 】 ‧
+<h1 align="center">‧ ♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/7ff073e6edceef2f2ea7c.jpg">
