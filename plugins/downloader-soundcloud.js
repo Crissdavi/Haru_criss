@@ -28,7 +28,7 @@ txt += `🍘• *Artista:* ${randoms.artist}\n`
 txt += `🍘• *Duracion:* ${randoms.duration}\n`
 txt += `🍘• *Reproducciones:* ${randoms.repro}\n`
 txt += `🍘• *Link:* ${randoms.url}\n\n`
-txt += `🚩 Powered By Starlights Team`
+txt += `🚩 ♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩`
 await conn.sendFile(m.chat, randoms.image, 'thumb.jpg', txt, m)
 await conn.sendMessage(m.chat, { audio: fs.readFileSync(mp3), fileName: `${sm.title}.mp3`, mimetype: 'audio/mpeg' }, { quoted: m })
 fs.unlinkSync(mp3)
