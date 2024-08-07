@@ -119,6 +119,6 @@ npm start
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/PzD28JM/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
+<a href="https://github.com/StarlightsTeam"><img src="https://i.ibb.co/d2PsXhR/file.jpg" width="300" height="300" alt="ᘛCriss"/></a>
 
 `♪ Team koruda ofc ♩ / Koruda - Bot _ By ᘛCriss`
