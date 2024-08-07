@@ -10,7 +10,7 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5218261275256', 'おDanịel.xyz⁩', true],
+  ['51913776697', 'ᘛCriss', true],
   ['5491168239750', 'Samu', true],
   ['51910108980'],
   ['5212751090007'],
@@ -31,12 +31,12 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Ai Hoshino",\n     "author": "おDanịel.xyz⁩",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "Koruda",\n     "author": "ᘛCriss",\n   "status_bot": "active"\n }\n}'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
-global.botname = '✯ Ai Hoshino - MD ✰'
-global.textbot = `Powered By Starlights Team`
-global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '【 ✯ Starlights Team - Oficial Chanel ✰ 】'
+global.botname = 'Koruda - bot'
+global.textbot = `♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩`
+global.listo = '*Aqui tiene ༼⁠ ⁠つ⁠ ⁠◕⁠‿⁠◕⁠ ⁠༽⁠つ*'
+global.namechannel = ' ♪  ᴛᴇᴀᴍ ᴋᴏʀᴜᴅᴀ ᴏꜰᴄ ♩ '
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -45,8 +45,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/CS0G9jonrATESoRSRN3Riu'
-global.canal = 'https://whatsapp.com/channel/0029VaBfsIwGk1FyaqFcK91S'
+global.group = 'https://chat.whatsapp.com/DlHzZruKRaPKu4o7bPZn2e'
+global.canal = 'https://whatsapp.com/channel/0029VagzzXs65yD3pXoJSp10'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
