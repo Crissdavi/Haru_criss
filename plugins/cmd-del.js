@@ -4,9 +4,9 @@ if (m.quoted && m.quoted.fileSha256) hash = m.quoted.fileSha256.toString('hex')
 if (!hash) return conn.reply(m.chat, `🚩 Ingresa el nombre del comamdo.`, m, rcanal)
 try {
 let sticker = global.db.data.sticker
-if (sticker[hash] && sticker[hash].locked) return conn.reply(m.chat, `🚩 No puedes borrar este comando.`, m, rcanal)
+if (sticker[hash] && sticker[hash].locked) return conn.reply(m.chat, `🚩 No puedes borrar este comando.`, m, canal)
 delete sticker[hash]
-await conn.reply(m.chat, `🚩 Comando eliminado con éxito.`, m, rcanal)
+await conn.reply(m.chat, `🚩 Comando eliminado con éxito.`, m, canal)
 await m.react('✅')
 } catch {
 await m.react('✖️')
